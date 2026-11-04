@@ -35,7 +35,6 @@ nav a:hover {
     color: #ffffff;
 }
 
-/* Sections */
 section {
     max-width: 800px;
     margin: 2rem auto;
@@ -83,7 +82,7 @@ p {
     margin-bottom: 0.4rem;
 }
 
-/* Liens de contact */
+
 #contact a {
     color: #2563eb;
     text-decoration: none;
@@ -94,7 +93,7 @@ p {
     text-decoration: underline;
 }
 
-/* Responsive pour mobiles */
+
 @media (max-width: 768px) {
     nav {
         flex-direction: column;
