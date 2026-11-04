@@ -106,11 +106,12 @@ p {
         margin: 1rem;
         padding: 1.2rem;
     }
-    .profile-img {
+.profile-img {
     width: 140px;
     height: 140px;
     border-radius: 50%;
-    object-fit: cover;
+    object-fit: contain;
+    background-color: #f3f4f6;
     border: 3px solid #3b82f6;
     margin-bottom: 1rem;
 }
